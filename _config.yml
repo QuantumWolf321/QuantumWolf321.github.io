@@ -9,7 +9,8 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+
+timezone: "Asia/Seoul"
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -26,7 +27,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://QuantumWolf321.github.io"
 
 github:
-  username: QuantumWolf # change to your GitHub username
+  username: QuantumWolf321 # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
